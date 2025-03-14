@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
+
+@theme {
+  --breakpoint-lg: 90rem;
+
+  --color-blue100: #f4f6fa;
+  --color-blue300: #abc1e1;
+  --color-purple300: #a729f5;
+  --color-slate700: #313e51;
+  --color-slate600: #3b4d66;
+  --color-slate500: #626c7f;
+  --color-green: #26d782;
+  --color-red: #ee5454;
+
+  --font-display: "Rubik", "serif"; 
+
+  --text-hLarge: 4rem;
+  --text-hLarge--line-height: 100%; 
+  
+  --text-hMedium: 2.25rem;
+  --text-hMedium--line-height: 100%; 
+  
+  --text-hSmall: 1.75rem;
+  --text-hSmall--line-height: 100%; 
+  
+  --text-bMedium: 0.75rem;
+  --text-bMedium--line-height: 150%; 
+
+}
