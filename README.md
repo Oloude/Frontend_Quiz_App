@@ -39,7 +39,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/oloude)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Frontend Quiz App](https://frontend-quiz-apps.netlify.app/)
 
 ## My process
 
@@ -161,6 +161,5 @@ export default Questions;
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@Oloude](https://www.frontendmentor.io/profile/oloude)
 - Twitter - [@AbosedeOloude](https://www.twitter.com/abosedeoloude)
